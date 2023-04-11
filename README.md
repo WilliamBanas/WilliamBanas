@@ -1,4 +1,4 @@
-# **Hey I'm William**
+# **Hey I'm William** 😊
 
 *A young developper from France who is looking for an internship as a fullstack developper or a similar job.*
 
