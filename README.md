@@ -1,16 +1,50 @@
-### Hi there 👋
+# **Hey I'm William**
 
-<!--
-**WilliamBanas/WilliamBanas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*A young developper from France who is looking for an internship as a fullstack developper or a similar job.*
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently working on a Portfolio based on **React native**.
+
+My lastest project was a photography showcase website also based on **React** for Laura Jourde photography 📷.
+
+
+## Stack mastered: 
+
+
+**Frontend**
+
+- React
+
+
+**Backend**
+
+- SQL
+- Adminer
+
+
+**DevOps**
+
+- Git
+
+
+**languages**
+
+- JavaScript
+- PHP
+- HTML
+- CSS
+
+
+**OS**
+
+- Linux
+- Windows
+
+
+**Other**
+
+- Figma
+- G-Suite
+
+
+
