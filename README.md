@@ -14,6 +14,8 @@ My lastest project was a photography showcase website also based on **React** fo
 **Frontend**
 
 - React
+- React redux
+- Next.js
 
 
 **Backend**
