@@ -3,7 +3,7 @@
 *A young developper from France who is looking for an internship as a fullstack developper or a similar job.*
 
 
-I'm currently working on a Portfolio based on **React native**.
+I'm currently working on a Portfolio based on **Next.js**.
 
 My lastest project was a photography showcase website also based on **React** for Laura Jourde photography 📷.
 
@@ -16,6 +16,7 @@ My lastest project was a photography showcase website also based on **React** fo
 - React
 - React redux
 - Next.js
+- Tailwind CSS
 
 
 **Backend**
