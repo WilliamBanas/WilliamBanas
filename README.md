@@ -2,10 +2,9 @@
 
 *A young developper from France who is looking for an internship as a fullstack developper or a similar job.*
 
+I'm currently working on an app based on SvelteKit.
 
-I'm currently working on a Portfolio based on **Next.js**.
-
-My lastest project was a photography showcase website also based on **React** for Laura Jourde photography 📷.
+My lastest project was a coaching reservation application for **Collecty'form** based on ReactJs and Express.
 
 
 ## Stack mastered: 
@@ -14,15 +13,17 @@ My lastest project was a photography showcase website also based on **React** fo
 **Frontend**
 
 - React
-- React redux
-- Next.js
+- Sveltekit
 - Tailwind CSS
-
+- SASS
 
 **Backend**
 
 - SQL
+- PostgreSQL
 - Adminer
+- NestJs
+- Express
 
 
 **DevOps**
@@ -33,7 +34,7 @@ My lastest project was a photography showcase website also based on **React** fo
 **languages**
 
 - JavaScript
-- PHP
+- TypeScript
 - HTML
 - CSS
 
