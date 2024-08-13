@@ -1,6 +1,6 @@
 # **Hey I'm William** 😊
 
-*A young developper from France who is looking for an internship as a fullstack developper or a similar job.*
+*A young developper from France*
 
 I'm currently working on an app based on SvelteKit.
 
@@ -17,21 +17,25 @@ My lastest project was a coaching reservation application for **Collecty'form** 
 - Tailwind CSS
 - SASS
 
+
 **Backend**
 
 - SQL
 - PostgreSQL
-- Adminer
 - NestJs
 - Express
+- Prisma
+- TypeORM
+- Mongoose
 
 
 **DevOps**
 
 - Git
+- Docker
 
 
-**languages**
+**Languages**
 
 - JavaScript
 - TypeScript
