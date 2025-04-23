@@ -2,9 +2,9 @@
 
 *A young developper from France*
 
-I'm currently working on an app based on SvelteKit.
+I'm currently working on an app based on ReactJs and ThreeJs.
 
-My lastest project was a coaching reservation application for **Collecty'form** based on ReactJs and Express.
+My lastest project was a fictive restaurant's application based on ReactJs and NestJs.
 
 
 ## Stack mastered: 
@@ -12,8 +12,9 @@ My lastest project was a coaching reservation application for **Collecty'form** 
 
 **Frontend**
 
-- React
+- ReactJs
 - Sveltekit
+- NextJs 
 - Tailwind CSS
 - SASS
 
